@@ -1,0 +1,63 @@
+h2{margin:0 auto;
+	width: 700px;
+	text-align: center;
+	border-bottom: 2px solid lightblue;
+	padding-top: 20px;
+}
+p{
+	padding:10px;
+	margin-left: 10px;
+	
+}
+body{
+	margin: 0 auto;
+}
+form{
+	background-color: #f8f8f8;
+}
+.confirm_form{
+	margin: 0 auto;
+	margin-top: 30px;
+	color: black;
+	width:800px;
+	border: 4px solid gray;
+	border-radius:4px;
+	
+}
+.confirm{
+	text-align: center;
+}
+.button1{
+	border: 1px solid lightgray;
+	padding: 6px 60px 4px 60px;
+	color: white;
+	background-color: darkgray;
+	border-radius: 5px;
+	border-bottom: solid 2px gray;
+	width: 200px;
+	margin-bottom: 20px;
+	float: left;
+	margin-left: 200px;
+	margin-right: 20px;
+	
+	
+}
+.button2{
+	border: 1px solid lightgray;
+	padding: 6px 60px 4px 60px;
+	color: white;
+	background-color: forestgreen;
+	border-radius: 5px;
+	border-bottom: solid 2px gray;
+	width: 200px;
+	margin-bottom: 20px;
+}
+
+
+header {
+	width: 100%; 
+}
+header img{
+	display:inline-block;
+}
+}
